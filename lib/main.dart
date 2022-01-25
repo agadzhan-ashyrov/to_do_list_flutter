@@ -31,7 +31,6 @@ class MyApp extends StatelessWidget {
           GlobalCupertinoLocalizations.delegate,
         ],
         supportedLocales: S.delegate.supportedLocales,
-        // title: 'Flutter Demo',
         theme: light,
         darkTheme: dark,
         home: HomePage(),
